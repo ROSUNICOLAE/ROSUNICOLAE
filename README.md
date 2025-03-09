@@ -2,7 +2,7 @@
 - 👀 I’m interested in IT & CONSTRUCTION ENGINEERING 
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : tel : +40755070072 / E-mail : redglobalsolutions@gmail.com
+- 📫 How to reach me : tel : +40755070072 / E-mail : nicolae.rosu@softnetconsulting.ro
 
 <!---
 ROSUNICOLAE/ROSUNICOLAE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
